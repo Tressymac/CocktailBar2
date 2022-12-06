@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CocktailBar2/static/css/main.f06a9907.css",
+    "main.js": "/CocktailBar2/static/js/main.4d217ad9.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/CocktailBar2/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/buddingPopWine.gif": "/CocktailBar2/static/media/buddingPopWine.6a1ef2d9aab48957dd6f.gif",
+    "index.html": "/CocktailBar2/index.html",
+    "main.f06a9907.css.map": "/CocktailBar2/static/css/main.f06a9907.css.map",
+    "main.4d217ad9.js.map": "/CocktailBar2/static/js/main.4d217ad9.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/CocktailBar2/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f06a9907.css",
+    "static/js/main.4d217ad9.js"
+  ]
+}
